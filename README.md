@@ -68,7 +68,7 @@
 ### Steps to build project
 
 1. Clone the Flutter Project:
-   - Use `git clone https://github.com/RetroMusicPlayer/Paisa.git` to download the project from the GitHub repository.
+   - Use `git clone https://github.com/arjunshettyz/PaisaManager.git` to download the project from the GitHub repository.
 2. Install Dependencies:
    - Navigate to the project directory and run `flutter pub get` to install the required dependencies.
 3. Run the App:
