@@ -4,20 +4,7 @@
     <h1 align="center">Paisa - Expense Tracker</h1>
   </a>
 </p>
-<p align="center">
- <a href="https://flutter.dev/" style="text-decoration:none" area-label="flutter">
-    <img src="https://img.shields.io/badge/Platform-Flutter%203.22.2-blue">
-  </a>
-  <a href="https://github.com/RetroMusicPlayer/Paisa/releases/tag/v6.1.4" style="text-decoration:none" area-label="flutter">
-    <img src="https://img.shields.io/badge/Version-6.1.4-orange">
-  </a>
-   <a href="https://play.google.com/store/apps/details?id=dev.hemanths.paisa" style="text-decoration:none" area-label="play store">
-    <img src="https://img.shields.io/badge/Download-Google%20Play-green">
-  </a>
-  <a href="https://apps.microsoft.com/store/detail/9NQ2KR46N764?launch=true&mode=mini" style="text-decoration:none" area-label="windows">
-    <img src="https://img.shields.io/badge/Download-Micrsoft%20Store-red">
-  </a>
-</p>
+
 <p  align="center">
     <h2> Material design expense manager</h2>
 </p>
